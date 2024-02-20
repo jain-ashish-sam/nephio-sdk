@@ -1,0 +1,6 @@
+Module, Url
+appsv1, https://raw.githubusercontent.com/kubernetes/api/master/apps/v1/types.go
+corev1, https://raw.githubusercontent.com/kubernetes/api/master/core/v1/types.go
+rbacv1, https://raw.githubusercontent.com/kubernetes/api/master/rbac/v1/types.go
+schedulingv1, https://raw.githubusercontent.com/kubernetes/api/master/scheduling/v1/types.go
+metav1, https://raw.githubusercontent.com/kubernetes/apimachinery/master/pkg/apis/meta/v1/types.go
